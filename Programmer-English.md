@@ -11,3 +11,11 @@
 #### active 活动的
 #### actual parameter 实参
 #### adapter 适配器
+#### add-in 插件
+#### address 地址
+#### address space 地址空间
+#### advanced 高级的
+#### aggregation 聚合
+#### algorithm 算法
+#### alias 别名
+#### align 排列、排序
