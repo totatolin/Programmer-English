@@ -44,3 +44,31 @@
 #### AI (Artificial Intelligence) 人工智能
 ### B
 #### background 背景、后台(进程)
+#### backup 备份
+#### backup device 备份设备
+#### backup file 备份文件
+#### backward compatible 向后兼容、向下兼容
+#### base class 基类
+#### base type 基类型
+#### batch 批次、批处理
+#### benefit 利益
+#### binary search 二分查找
+#### binary tree 二叉树
+#### binding 绑定
+#### bit 位
+#### bitmap 位图
+#### block 块
+#### boolean 布尔值
+#### border 边框
+#### boxing 装箱
+#### brace 大括号
+#### bracket 中括号
+#### breakpoint 断点
+#### browser application 浏览器应用
+#### bug 错误
+#### build 建造
+#### build-in 内置
+#### bus 总线
+#### business 商业
+#### buttons 按钮
+#### byte 字节
