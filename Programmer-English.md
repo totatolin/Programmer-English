@@ -72,3 +72,15 @@
 #### business 商业
 #### buttons 按钮
 #### byte 字节
+### C
+#### cache 缓存
+#### call 调用
+#### callback 回调
+#### candidate function 候选函数
+#### chain 链
+#### character 字符
+#### check box 复选框
+#### child class 子类
+#### class 类
+#### class body 类体
+#### class declaration 类声明
