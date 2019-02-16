@@ -84,3 +84,46 @@
 #### class 类
 #### class body 类体
 #### class declaration 类声明
+#### class definition 类定义
+#### cleanup 清理
+#### client 客户端
+#### clipboard 剪贴板
+#### clone 复制
+#### collection 集合
+#### command line 命令行
+#### communication 通讯
+#### compatible 兼容
+#### compile time 编译期
+#### compiler 编译器
+#### component 组件
+#### composition 复合
+#### concept 概念
+#### concrete 具象的、实在的
+#### concurrent 并行、并发
+#### configuration 组态、配置
+#### connection 连接
+#### constraint 约束
+#### construct 构件
+#### constructor 构造函数
+#### container 容器
+#### containment 包含、内容
+#### context 上下文
+#### control 控件
+#### console 控制台
+#### const (constant) 常数
+#### copy 复制
+#### cover 涵盖、覆盖
+#### create 创建
+#### creation 产生
+#### cursor 游标、光标
+#### custom 自定义
+### D
+#### data 资料、数据
+#### database 数据库
+#### data structure 数据结构
+#### datagram 资料元
+#### dead lock 死锁
+#### debug 调试
+#### debugger 调试器
+#### declaration 声明
+#### deduction 推导
