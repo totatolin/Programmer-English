@@ -149,3 +149,52 @@
 #### document 文档
 #### driver 驱动
 #### dynamic binding 动态绑定
+### E
+#### efficiency 效率
+#### efficient 高效
+#### end user 终端用户
+#### entity 实体
+#### encapsulation 封装
+#### engine 引擎
+#### enum 枚举
+#### equal 相等
+#### equality 相等性
+#### equivalence 等价性
+#### escape code 转义码
+#### evaluate 评估
+#### event 事件
+#### event driven 事件驱动
+#### exception 异常
+#### exit 退出
+#### explicit 显式的
+#### export 导出
+#### expression 表达式
+### F
+#### facility 设施
+#### feature 特性
+#### fetch 提取
+#### field 字段
+#### file 文件
+#### flag 标记
+#### flash memory 闪存
+#### flexibility 弹性
+#### flush 清理
+#### font 字体
+#### form 表单
+#### framework 框架
+#### function 函数
+### G
+#### GC (Garbage Collection) 垃圾回收机制
+#### generate 生成
+#### generic 泛型
+#### getter 取值函数
+#### global 全局的
+#### grant 授权
+#### group 群组
+### H
+#### handler 处理器
+#### hash table 散列表
+#### heap 堆
+#### hook 钩子
+#### hot key 热键
+#### hyperlink 超链接
