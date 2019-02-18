@@ -120,10 +120,32 @@
 ### D
 #### data 资料、数据
 #### database 数据库
+#### data integrity 数据完整性
 #### data structure 数据结构
 #### datagram 资料元
+#### dataset 数据集
 #### dead lock 死锁
 #### debug 调试
 #### debugger 调试器
+#### decay 退化
 #### declaration 声明
 #### deduction 推导
+#### default 默认
+#### defer 延迟
+#### define 定义
+#### delegate 委派、委托
+#### deploy 部署
+#### design pattern 设计模式
+#### destroy 销毁
+#### device 设备
+#### dialog 对话框
+#### digest 摘要
+#### digital 数字的
+#### directive 指令
+#### directory 目录
+#### disk 碟
+#### dispatch 分派
+#### distributed computing 分布式计算
+#### document 文档
+#### driver 驱动
+#### dynamic binding 动态绑定
