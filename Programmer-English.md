@@ -198,3 +198,30 @@
 #### hook 钩子
 #### hot key 热键
 #### hyperlink 超链接
+### I
+#### icon 图标
+#### IDE 集成开发环境
+#### identifier 标识符
+#### image 图像
+#### immutability 不变性
+#### implement 实现
+#### implicit 隐式的
+#### import 导入
+#### infinite loop 无限循环
+#### infinite recursive 无限递归
+#### infrastructure 公共基础建设
+#### inheritance 继承
+#### inline 内联
+#### initialization 初始化
+#### initialize 初始化
+#### inner class 内嵌类
+#### instance 实例
+#### integer 整型
+#### integrate 整合
+#### interacts 交互
+#### interface 界面、接口
+#### interpreter 解释器
+#### invoke 唤起、调用
+#### iterate 迭代
+#### iterator 迭代器
+#### item 项目
