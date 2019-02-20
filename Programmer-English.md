@@ -225,3 +225,73 @@
 #### iterate 迭代
 #### iterator 迭代器
 #### item 项目
+### L
+#### laser 激光
+#### level 阶层
+#### library 函数库
+#### lifetime 生命期
+#### link 联结
+#### linker 连接器
+#### literal constant 字面常数
+#### list 串列
+#### list box 列表框
+#### load 载入
+#### loader 载入器
+#### local 局部的
+#### lock 锁
+#### loop 循环
+### M
+#### manifest 清单
+#### maintain 维护
+#### mechanism 机制
+#### member 成员
+#### memory 内存
+#### memory leak 内存泄漏
+#### menu 表单
+#### message 消息
+#### method 方法
+#### meta 元
+#### micro 微
+#### middleware 中间件
+#### modeling 模型
+#### modem 调制解调器
+#### module 模块
+#### modifier 修饰符
+#### mouse 鼠标
+#### mutable 可变的
+#### multi 多的
+#### multi-tasking 多任务
+#### multi-thread 多线程
+### N
+#### named parameter 命名参数
+#### namespace 命名空间
+#### native 原生的
+#### nested class 嵌套类
+#### network 网络
+#### network card 网卡
+### O
+#### object 对象
+#### object based 基于对象的
+#### object file 目标文件
+#### object model 对象模型
+#### object oriented 面向对象的
+#### online 线上的
+#### opaque 不透明的
+#### operation 操作
+#### operator 运算符
+#### option 选项
+#### ordinary 常规的
+#### overflow 溢出
+#### overhead 额外开销
+#### overload 重载
+#### override 改写
+### P
+#### package 包
+#### pair 对组
+#### pane 窗格
+#### parallel 平行
+#### parameter 参数
+#### parent class
+#### parentheses 小括号
+#### parse 解析
+#### part 零件
