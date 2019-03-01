@@ -295,3 +295,22 @@
 #### parentheses 小括号
 #### parse 解析
 #### part 零件
+#### pass by reference 引用传递
+#### pass by value 值传递
+#### pattern 模式
+#### performance 效率
+#### persistence 持久性
+#### pixel 像素
+#### platform 平台
+#### pointer 指针
+#### poll 轮询
+#### polymorphism 多态
+#### port 端口
+#### postfix 后置式
+#### prefix 前置式
+#### preprocessor 预处理器
+#### prime 质数
+#### print 打印
+#### priority 优先权
+#### process 进程
+#### profile 评测
