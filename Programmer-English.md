@@ -314,3 +314,83 @@
 #### priority 优先权
 #### process 进程
 #### profile 评测
+#### programmer 程序员
+#### programming 编程、程式设计
+#### progress bar 进度指示器
+#### project 项目
+#### property 属性
+#### protocol 协议
+#### qualified 限定
+#### quality 质量
+#### queue 队列
+### R
+#### radian 弧度
+#### raise 引发
+#### random number 随机数
+#### range 范围
+#### rank 等级
+#### raw 未处理的
+#### record 记录
+#### recordset 记录集
+#### recursive 递归
+#### redirection 重定向
+#### refactoring 重构
+#### refer 参考
+#### refer to 指向
+#### reference 引用
+#### register 寄存器
+#### reflection 反射
+#### relational database 关系数据库
+#### represent 表现
+#### resolve 决议
+#### resolution 解析
+#### restriction 局限
+#### return 返回
+#### return type 返回类型
+#### return value 返回值
+#### robust 稳健
+#### robustness 稳健性
+#### routine 常式
+#### runtime 执行期
+### S
+#### save 存储
+#### schedule 排程、调度
+#### scheme 结构纲目、计划
+#### scroll bar 滚动条
+#### scope 作用域
+#### screen 屏幕
+#### search 搜索
+#### semantics 语义
+#### server 服务器
+#### serial 串行
+#### serialization 序列化
+#### setter 设值函式
+#### signal 信号
+#### signature 签名
+#### slider 滑块
+#### slot 槽
+#### smart pointer 智能指针
+#### snapshot 屏幕截图
+#### specialization 特殊化
+#### specification 规范
+#### splitter 切分窗口
+#### software 软件
+#### solution 方案
+#### source 源码
+#### stack 栈
+#### standard library 标准库
+#### statement 声明
+#### status bar 状态条
+#### stream 流
+#### string 字符串
+#### subtype 子类型
+#### support 支持
+#### suspend 挂起
+#### symbol 符号
+#### syntax 语法
+### T
+#### tag 标签
+#### target 目标
+#### task switch 工作切换
+#### template 模板
+#### text 文本
