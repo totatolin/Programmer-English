@@ -31,6 +31,7 @@
 #### argument 参数
 #### array 数组
 #### arrow operator 箭头操作符
+#### ascending 上升的
 #### assert 断言
 #### assign 赋值
 #### assignment 赋值、分配
@@ -222,6 +223,7 @@
 #### interface 界面、接口
 #### interpreter 解释器
 #### invoke 唤起、调用
+#### isomorphic 同构的
 #### iterate 迭代
 #### iterator 迭代器
 #### item 项目
@@ -307,7 +309,9 @@
 #### polymorphism 多态
 #### port 端口
 #### postfix 后置式
+#### practical 实用的
 #### prefix 前置式
+#### premium 优质的
 #### preprocessor 预处理器
 #### prime 质数
 #### print 打印
